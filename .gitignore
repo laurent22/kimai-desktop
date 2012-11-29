@@ -1,0 +1,6 @@
+KimaiDesktop-build-desktop-Qt_4_7_4_for_Desktop_-_MSVC2008__Qt_SDK__Debug
+KimaiDesktop-build-desktop-Qt_4_7_4_for_Desktop_-_MSVC2008__Qt_SDK__Release
+Kimai.exe
+*.pdb
+*.user
+_resources
